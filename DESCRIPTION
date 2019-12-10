@@ -1,0 +1,16 @@
+Package: ptbcore
+Title: Paediatric TB Core Model 
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Pete",
+           family = "Dodd",
+           role = c("aut", "cre"),
+           email = "p.j.dodd@sheffield.ac.uk")
+Description: What the package does (one paragraph).
+License: CCBY-4.0
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    data.tree,
+    HEdtree
+RoxygenNote: 6.1.1
