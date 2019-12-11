@@ -24,7 +24,7 @@ The goal of ptbcore is to ... TODO
 You can install the released version of ptbcore from GitHub with:
 
 ``` r
-devtoos::install_github("petedodd/ptbcore")
+devtools::install_github("petedodd/ptbcore")
 ```
 
 Below here is boilerplate...
